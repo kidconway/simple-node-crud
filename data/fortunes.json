@@ -1,0 +1,41 @@
+[{
+  "id": 1,
+  "message": "Love is around the corner.",
+  "lucky_number": 12,
+  "spirit_animal": "Dog"
+}, {
+  "id": 2,
+  "message": "You will find a great treasure.",
+  "lucky_number": 15,
+  "spirit_animal": "Lion"
+}, {
+  "id": 3,
+  "message": "Butterflies have been known to drink blood.",
+  "lucky_number": 46,
+  "spirit_animal": "Butterfly"
+}, {
+  "id": 4,
+  "message": "Bears. Beets. Battlestar Galactica",
+  "lucky_number": "5",
+  "spirit_animal": "Mako Shark"
+}, {
+  "id": 5,
+  "message": "Do-wa-diddy",
+  "lucky_number": 15,
+  "spirit_animal": "Octopus"
+}, {
+  "id": 6,
+  "message": "Early 2000s scream is trash",
+  "lucky_number": 15,
+  "spirit_animal": "Octopus"
+}, {
+  "id": 7,
+  "message": "Razmatazz Squid",
+  "lucky_number": "2",
+  "spirit_animal": "Squid"
+}, {
+  "id": 8,
+  "message": "Things were crazy..",
+  "lucky_number": "23",
+  "spirit_animal": "Elephant"
+}]

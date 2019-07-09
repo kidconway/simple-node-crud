@@ -1,0 +1,13 @@
+#!/usr/bin/env node
+
+const app = require('../app')
+
+const host = 'Clementine'
+const port = 3791
+
+app.listen(port, () => {
+  console.log('* * * * * * * * * * * * * * * * * * * * * * * * * * *')
+  console.log(`Burning up ${host} on ${port}`)
+  console.log('Fun Fact: Butterflies have been known to drink blood')
+  console.log('* * * * * * * * * * * * * * * * * * * * * * * * * * *')
+})
